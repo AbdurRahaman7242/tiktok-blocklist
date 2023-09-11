@@ -1,0 +1,2 @@
+# tiktok-blocklist
+Tiktok Blocklist 
